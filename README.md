@@ -13,11 +13,9 @@
 
 ***
 <p align="center">${\textsf{\color{#C40497} RANDOM INFORMATION , , , }}$
-   </a>
-</p>
-<img width="1092" height="250" alt="image" src="https://media.tenor.com/UDn_c3CVQKEAAAAi/holding-a-flashlight-will-byers.gif" />
-<img width="1170" height="246" alt="image" src="https://media1.tenor.com/m/CARgJFTXTO4AAAAC/nat20-d20.gif)" />
 <p align="center">${\textsf{\color{#C4045A} Duffer brother supporters DNI. }}$
+<img width="1092" height="450" alt="image" src="https://media.tenor.com/UDn_c3CVQKEAAAAi/holding-a-flashlight-will-byers.gif" />
+<img width="1170" height="246" alt="image" src="https://media1.tenor.com/m/CARgJFTXTO4AAAAC/nat20-d20.gif)" />
 <img width="1080" height="228" alt="image" src="https://i.pinimg.com/1200x/97/fc/e4/97fce4916fcb0adae7e064b16082fd97.jpg" />
 <img width="1170" height="231" alt="image" src="https://i.pinimg.com/1200x/a8/5f/93/a85f9329448265e53818b472452bd6a0.jpg" />
 <img width="1092" height="211" alt="image" src="https://i.pinimg.com/1200x/e6/95/c4/e695c48abd68cdd774dc79246bd21b7a.jpg" />
