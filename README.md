@@ -3,10 +3,10 @@
 
 
 <p align="center" > <img src="https://readme-typing-svg.demolab.com?font=BoldSerif&size=25&duration=2000&pause=10000&color=0444C4&center=true&width=435&lines=%E2%80%98 PEGASUS+DEVICE!%E2%80%99"/> </p>
-<p align="center">${\textsf{\color{#C42304}  RAINBOW DASH / NO. 1 RF EMPLOYEE , , ♡ }}$
+<p align="center">${\textsf{\color{#C42304}  Will Byers , , ♡ }}$
 
-<p align="center">${\textsf{\color{#C47704}  rainbows / they / she / pony }}$
-<p align="center">${\textsf{\color{#C49E04}  RAINBOW FACTORY FANS INTERACT , , , DOUBLES DNI , }}$
+<p align="center">${\textsf{\color{#C47704}  they / he }}$
+<p align="center">${\textsf{\color{#C49E04}  ST/BYLER/MILEVEN FANS INTERACT , , , DOUBLES DNI , }}$
 <p align="center">${\textsf{\color{#64C404}  IDRC WHO BOTHERS ME , , , I DO BLOCK EASILY . }}$
 <p align="center">${\textsf{\color{#046AC4}  THIS DOES NOT MEAN TAKE ME FOR GRANTED. . }}$
 <p align="center">${\textsf{\color{#6A04C4}  IF I DISLIKE YOU / DO NOT TRUST YOU, DON'T TAKE IT SO PERSONAL - I DON'T TRUST A LOT OF PEOPLE. }}$
@@ -15,9 +15,9 @@
 <p align="center">${\textsf{\color{#C40497} RANDOM INFORMATION , , , }}$
    </a>
 </p>
-<img width="1092" height="211" alt="image" src="https://media.tenor.com/ZOXoAc4qb-wAAAAi/rainbow-dash-mlp.gif" />
-<img width="1170" height="246" alt="image" src="https://media1.tenor.com/m/ENAXRJlMxDEAAAAd/pegasus-device-rainbow-factory.gif" />
-<p align="center">${\textsf{\color{#C4045A} SHIPS INTERACT. }}$
+<img width="1092" height="211" alt="image" src="https://tenor.com/g3cTx6vFyCH.gif" />
+<img width="1170" height="246" alt="image" src="https://tenor.com/gozuG6BFxc6.gif" />
+<p align="center">${\textsf{\color{#C4045A} Duffer brother supporters DNI. }}$
 <img width="1196" height="246" alt="image" src="https://i.pinimg.com/1200x/f8/0b/8f/f80b8f121562595896d3eaefee4fa549.jpg" />
 <img width="1080" height="228" alt="image" src="https://i.pinimg.com/1200x/97/fc/e4/97fce4916fcb0adae7e064b16082fd97.jpg" />
 <img width="1170" height="231" alt="image" src="https://i.pinimg.com/1200x/a8/5f/93/a85f9329448265e53818b472452bd6a0.jpg" />
