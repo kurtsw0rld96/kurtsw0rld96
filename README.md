@@ -18,7 +18,6 @@
 <img width="1092" height="211" alt="image" src="https://media.tenor.com/UDn_c3CVQKEAAAAi/holding-a-flashlight-will-byers.gif" />
 <img width="1170" height="246" alt="image" src="https://media1.tenor.com/m/CARgJFTXTO4AAAAC/nat20-d20.gif)" />
 <p align="center">${\textsf{\color{#C4045A} Duffer brother supporters DNI. }}$
-<img width="1196" height="246" alt="image" src="https://i.pinimg.com/1200x/f8/0b/8f/f80b8f121562595896d3eaefee4fa549.jpg" />
 <img width="1080" height="228" alt="image" src="https://i.pinimg.com/1200x/97/fc/e4/97fce4916fcb0adae7e064b16082fd97.jpg" />
 <img width="1170" height="231" alt="image" src="https://i.pinimg.com/1200x/a8/5f/93/a85f9329448265e53818b472452bd6a0.jpg" />
 <img width="1113" height="225" alt="image" src="https://i.pinimg.com/1200x/54/87/a5/5487a59b8eb21002a73004dcf812c7e2.jpg" />
