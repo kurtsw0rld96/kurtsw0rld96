@@ -1,6 +1,5 @@
 <img width="1024" height="768" alt="image" src="https://i.pinimg.com/736x/04/f9/a5/04f9a5e3949f00dc65432903760a10dd.jpg" />
 
-font=BoldSerif&size=25&duration=2000&pause=10000&color=0444C4&center=true&width=435&lines=%E2%80%98 PEGASUS+DEVICE!%E2%80%99"/> </p>
 <p align="center">${\textsf{\color{#C42304}  Will Byers , , ♡ }}$
 
 <p align="center">${\textsf{\color{#C47704}  they / he }}$
