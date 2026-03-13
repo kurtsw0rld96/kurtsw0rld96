@@ -12,7 +12,7 @@
 <p align="center">${\textsf{\color{#C40497} RANDOM INFORMATION , , , }}$
 <p align="center">${\textsf{\color{#C4045A} Duffer brother supporters DNI. }}$
 <p align="center">${\textsf{\color{#C4045A} MY SHIPS - Byler, Bychance, Byclair, Mileven, Elmax, Lumax, Rovickie, Ronance, Steddie, Harringrove, Stonathan, Jopper, Henderhop, Jancy}}$
-  <p align="center">${\textsf{\color{#C4045A} Stancy, Henclair, Murrlexei, Bowclair, Joyren, Bywheelclair?, Harringroveson.. other ships are welcome to int ! IWEC darkships, dni incest . }}$
+  <p align="center">${\textsf{\color{#C4045A} Stancy, Henclair, Murrlexei, Bowclair, Joyren, Bywheelclair?, Harringroveson.. other ships are Rarl, Regan(rick/negan), stenbrough, reddie, Benverly, Ryers?, style, kyman, so much more . }}$
 <img width="1092" height="450" alt="image" src="https://media.tenor.com/UDn_c3CVQKEAAAAi/holding-a-flashlight-will-byers.gif" />
 <img width="1170" height="246" alt="image" src="https://media1.tenor.com/m/CARgJFTXTO4AAAAC/nat20-d20.gif)" />
 <img width="1080" height="228" alt="image" src="https://i.pinimg.com/1200x/97/fc/e4/97fce4916fcb0adae7e064b16082fd97.jpg" />
