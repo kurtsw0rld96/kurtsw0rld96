@@ -1,5 +1,4 @@
 <img width="1024" height="768" alt="image" src="https://i.pinimg.com/736x/04/f9/a5/04f9a5e3949f00dc65432903760a10dd.jpg" />
-
 <p align="center">${\textsf{\color{#C42304}  Will Byers , , ♡ }}$
 <p align="center">${\textsf{\color{#C47704}  Mama/Joyce @DoodlebugPT - Mike @willbylerr }}$
   
