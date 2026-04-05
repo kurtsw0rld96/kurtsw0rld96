@@ -8,7 +8,6 @@
 <p align="center">${\textsf{\color{#046AC4}  THIS DOES NOT MEAN TAKE ME FOR GRANTED. . }}$
 <p align="center">${\textsf{\color{#6A04C4}  Fun fact; Hate is amusing and I find humor in it rather than feel bothered by it. }}$
 <p align="center">${\textsf{\color{#6A04C4}   in it rather than feel bothered by it. }}$
-***
 <p align="center">${\textsf{\color{#C40497} RANDOM INFORMATION , , , }}$
 <p align="center">${\textsf{\color{#C4045A} Duffer brother supporters DNI. }}$
 <p align="center">${\textsf{\color{#C4045A} MY SHIPS - Byler, Bychance, Byclair, Mileven, Elmax, Lumax, Rovickie, Ronance, Steddie, Harringrove, Stonathan, Jopper, Henderhop, Jancy}}$
