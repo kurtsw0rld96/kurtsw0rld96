@@ -6,7 +6,7 @@
 <p align="center">${\textsf{\color{#C49E04}  ST/BYLER/MILEVEN FANS INTERACT , , , DOUBLES DNI , }}$
 <p align="center">${\textsf{\color{#64C404}  IDRC WHO BOTHERS ME , , , I DO BLOCK EASILY . }}$
 <p align="center">${\textsf{\color{#046AC4}  THIS DOES NOT MEAN TAKE ME FOR GRANTED. . }}$
-<p align="center">${\textsf{\color{#6A04C4}  IF I DISLIKE YOU / DO NOT TRUST YOU, DON'T TAKE IT SO PERSONAL - I DON'T TRUST A LOT OF PEOPLE. }}$
+<p align="center">${\textsf{\color{#6A04C4}  Fun fact; Hate is amusing and I find humor in it rather than feel bothered by it. }}$
 
 ***
 <p align="center">${\textsf{\color{#C40497} RANDOM INFORMATION , , , }}$
