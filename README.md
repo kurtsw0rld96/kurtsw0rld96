@@ -1,8 +1,9 @@
 <img width="1024" height="768" alt="image" src="https://i.pinimg.com/736x/04/f9/a5/04f9a5e3949f00dc65432903760a10dd.jpg" />
 <p align="center">${\textsf{\color{#C42304}  Will Byers , , ♡ }}$
 <p align="center">${\textsf{\color{#C47704}  Mama/Joyce @DoodlebugPT - RON!!!(mikey!!( @pwuppylove - Mike/LOML!!<3 @willbylerr }}$
-  <p align="center">${\textsf{\color{#C47704}  (mikey!!) @pwuppylove - Mike/LOML!!<3 @willbylerr }}$
-    
+  <p align="center">${\textsf{\color{#C47704}  (mikey!!) @pwuppylove - Mike/LOML!!<3 }}$
+    <p align="center">${\textsf{\color{#C47704}  @willbylerr }}$
+      
 <p align="center">${\textsf{\color{#C47704}  THEY/HE }}$
 <p align="center">${\textsf{\color{#C49E04}  ST/BYLER/MILEVEN FANS INTERACT , , , DOUBLES DNI , }}$
 <p align="center">${\textsf{\color{#64C404}  IDRC WHO BOTHERS ME , , , I DO BLOCK EASILY . }}$
